@@ -1,2 +1,2 @@
 # c-nest
-euler 01 ~ euler 50
+Euler 01 ~ Euler 50
